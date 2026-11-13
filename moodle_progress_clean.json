@@ -7,6 +7,13 @@
       "completed": 36,
       "activities_count": 2
     },
+    "3": {
+      "id": 3,
+      "name": "Inducción corporativa contratistas 2025",
+      "enrolled": 0,
+      "completed": 0,
+      "activities_count": 6
+    },
     "4": {
       "id": 4,
       "name": "Asociados de negocio 2025",
@@ -81,14 +88,14 @@
       "id": 15,
       "name": "Fraude alimentario 2026",
       "enrolled": 114,
-      "completed": 42,
+      "completed": 43,
       "activities_count": 3
     },
     "16": {
       "id": 16,
       "name": "Defensa alimentaria 2026",
       "enrolled": 115,
-      "completed": 44,
+      "completed": 45,
       "activities_count": 2
     },
     "18": {
@@ -102,7 +109,7 @@
       "id": 20,
       "name": "Concientización de amenazas 2026",
       "enrolled": 107,
-      "completed": 39,
+      "completed": 40,
       "activities_count": 2
     },
     "21": {
@@ -116,7 +123,7 @@
       "id": 22,
       "name": "Asociados de negocio 2026",
       "enrolled": 106,
-      "completed": 37,
+      "completed": 39,
       "activities_count": 3
     },
     "23": {
@@ -137,14 +144,14 @@
       "id": 25,
       "name": "Gestión del riesgo 2026",
       "enrolled": 96,
-      "completed": 19,
+      "completed": 20,
       "activities_count": 2
     },
     "26": {
       "id": 26,
       "name": "Lineamientos OEA 2026",
       "enrolled": 96,
-      "completed": 16,
+      "completed": 17,
       "activities_count": 2
     },
     "31": {
@@ -165,7 +172,7 @@
       "id": 33,
       "name": "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo 2026",
       "enrolled": 96,
-      "completed": 4,
+      "completed": 6,
       "activities_count": 4
     }
   },
@@ -6740,7 +6747,7 @@
           "total_activities": 2,
           "completed_activities": 2,
           "progress_pct": 100.0,
-          "is_completed": false,
+          "is_completed": true,
           "completed_date": "2026-11-12 14:18:56",
           "activities": {
             "Video Gestión del riesgo": {
@@ -10005,7 +10012,7 @@
           "total_activities": 2,
           "completed_activities": 2,
           "progress_pct": 100.0,
-          "is_completed": false,
+          "is_completed": true,
           "completed_date": "2025-08-13 01:06:39",
           "activities": {
             "Video Gestión del riesgo": {
@@ -11593,14 +11600,14 @@
           "course_id": 20,
           "course_name": "Concientización de amenazas 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 1,
+          "progress_pct": 50.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Video Concientización de amenazas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 15:45:19"
             },
             "Evalúa lo aprendido": {
               "status": "No finalizado",
@@ -11631,22 +11638,22 @@
           "course_id": 22,
           "course_name": "Asociados de negocio 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 15:41:48",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 15:27:05"
             },
             "Video Asociados de negocio Alianza Team": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 15:27:21"
             },
             "Evaluación asociados de negocio": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 15:40:50"
             }
           }
         },
@@ -19322,7 +19329,7 @@
           "total_activities": 2,
           "completed_activities": 2,
           "progress_pct": 100.0,
-          "is_completed": false,
+          "is_completed": true,
           "completed_date": "2026-11-10 09:07:35",
           "activities": {
             "Video Gestión del riesgo": {
@@ -21397,7 +21404,7 @@
           "total_activities": 2,
           "completed_activities": 2,
           "progress_pct": 100.0,
-          "is_completed": false,
+          "is_completed": true,
           "completed_date": "2025-08-05 15:16:54",
           "activities": {
             "Video Gestión del riesgo": {
@@ -21803,7 +21810,7 @@
           "total_activities": 2,
           "completed_activities": 2,
           "progress_pct": 100.0,
-          "is_completed": false,
+          "is_completed": true,
           "completed_date": "2026-11-11 16:54:09",
           "activities": {
             "Video Gestión del riesgo": {
@@ -22692,8 +22699,8 @@
           "total_activities": 3,
           "completed_activities": 2,
           "progress_pct": 66.7,
-          "is_completed": false,
-          "completed_date": "",
+          "is_completed": true,
+          "completed_date": "2026-11-13 16:57:09",
           "activities": {
             "Video Fraude alimentario": {
               "status": "Finalizado",
@@ -22704,8 +22711,8 @@
               "date": "2026-03-05 12:14:34"
             },
             "Evaluación fraude alimentario": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 16:56:48"
             }
           }
         },
@@ -22713,18 +22720,18 @@
           "course_id": 16,
           "course_name": "Defensa alimentaria 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 16:37:33",
           "activities": {
             "Video Defensa alimentaria": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:31:53"
             },
             "Evaluación defensa alimentaria": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 16:37:12"
             }
           }
         },
@@ -22732,18 +22739,18 @@
           "course_id": 20,
           "course_name": "Concientización de amenazas 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 16:30:51",
           "activities": {
             "Video Concientización de amenazas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:26:25"
             },
             "Evalúa lo aprendido": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 16:30:26"
             }
           }
         },
@@ -22770,22 +22777,22 @@
           "course_id": 22,
           "course_name": "Asociados de negocio 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 16:25:27",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:05:31"
             },
             "Video Asociados de negocio Alianza Team": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:05:48"
             },
             "Evaluación asociados de negocio": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 16:24:54"
             }
           }
         },
@@ -22816,26 +22823,26 @@
           "course_id": 24,
           "course_name": "Manual de seguridad 2026",
           "total_activities": 5,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 4,
+          "progress_pct": 80.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Video caracterización del proceso": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:18:20"
             },
             "Manual de seguridad parte 1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:18:30"
             },
             "Manual de seguridad parte 2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:18:36"
             },
             "Manual de seguridad parte 3": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:18:40"
             },
             "Evaluación Manual de seguridad": {
               "status": "No finalizado",
@@ -22847,18 +22854,18 @@
           "course_id": 25,
           "course_name": "Gestión del riesgo 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 100.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 17:12:56",
           "activities": {
             "Video Gestión del riesgo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:57:59"
             },
             "Evaluación Gestión del riesgo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:58:04"
             }
           }
         },
@@ -22866,18 +22873,18 @@
           "course_id": 26,
           "course_name": "Lineamientos OEA 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 17:17:17",
           "activities": {
             "Video Lineamientos OEA": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:13:40"
             },
             "Evaluación Lineamientos OEA": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 17:16:37"
             }
           }
         },
@@ -22931,26 +22938,26 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 3,
+          "progress_pct": 75.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 16:50:06",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:38:12"
             },
             "Video parte II": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:38:15"
             },
             "Video Parte III": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:40:33"
             },
             "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 16:49:33"
             }
           }
         }
@@ -24688,7 +24695,7 @@
           "total_activities": 2,
           "completed_activities": 2,
           "progress_pct": 100.0,
-          "is_completed": false,
+          "is_completed": true,
           "completed_date": "2026-11-11 11:55:47",
           "activities": {
             "Video Gestión del riesgo": {
@@ -28230,7 +28237,7 @@
             },
             "Evaluación fraude alimentario": {
               "status": "No finalizado",
-              "date": ""
+              "date": "1969-12-31 19:00:00"
             }
           }
         },
@@ -28456,26 +28463,26 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 3,
+          "progress_pct": 75.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 17:07:54",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:27:14"
             },
             "Video parte II": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:33:47"
             },
             "Video Parte III": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:54:33"
             },
             "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 17:06:15"
             }
           }
         }
@@ -31585,7 +31592,7 @@
           "total_activities": 2,
           "completed_activities": 2,
           "progress_pct": 100.0,
-          "is_completed": false,
+          "is_completed": true,
           "completed_date": "2025-08-06 10:23:39",
           "activities": {
             "Video Gestión del riesgo": {
@@ -56462,14 +56469,14 @@
           "course_id": 18,
           "course_name": "Inducción Corporativa Contratistas 2026",
           "total_activities": 16,
-          "completed_activities": 6,
-          "progress_pct": 37.5,
+          "completed_activities": 11,
+          "progress_pct": 68.8,
           "is_completed": true,
           "completed_date": "2026-06-12 12:43:51",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:16:12"
             },
             "Lección 1. Seguridad y Salud en el Trabajo": {
               "status": "Finalizado",
@@ -56488,48 +56495,48 @@
               "date": "2025-11-18 14:57:58"
             },
             "Evaluación Inducción Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 15:11:48"
             },
             "Presentación Sistema de Gestión Ambiental": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 15:19:49"
             },
             "Evaluación: Inducción al Sistema de Gestión Ambiental": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 15:40:41"
             },
             "Presentación Protección de recursos": {
-              "status": "No finalizado",
-              "date": "2025-12-15 06:13:40"
+              "status": "Finalizado",
+              "date": "2026-11-13 15:45:14"
             },
             "Evaluación: Inducción Protección de Recursos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 15:47:53"
             },
             "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 15:54:20"
             },
             "BPA Y BPM En la inocuidad alimentaria": {
               "status": "Finalizado",
               "date": "2025-11-18 16:48:10"
             },
             "Evaluación Fundamentos Básicos de BPM e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 16:00:33"
             },
             "Presentacion de 5&#039;S contratistas": {
               "status": "Finalizado",
               "date": "2025-11-18 16:30:16"
             },
             "Evaluación programa 5'S": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 16:07:40"
             },
             "¿ Tienes algo que reportar?": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 16:07:52"
             }
           }
         }
