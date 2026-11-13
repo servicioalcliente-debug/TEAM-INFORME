@@ -1,0 +1,42 @@
+name: Sincronizar Moodle con Render
+
+on:
+  schedule:
+    # Se ejecuta todos los dias a las 06:00 y a las 18:00
+    - cron: '0 6,18 * * *'
+  # Permite ejecutarlo manualmente con un boton
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests urllib3
+
+      - name: Ejecutar sincronizacion con Moodle
+        env:
+          MOODLE_USER: ${{ secrets.MOODLE_USER }}
+          MOODLE_PASS: ${{ secrets.MOODLE_PASS }}
+          MOODLE_URL: 'https://www.cursosatcal.com/team'
+        run: |
+          python sync_moodle.py
+
+      - name: Guardar y subir cambios
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add index.html dashboard_estudiantes.html moodle_progress_clean.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync: Actualizacion estudiantes Moodle" && git push)
