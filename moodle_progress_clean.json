@@ -88,14 +88,14 @@
       "id": 15,
       "name": "Fraude alimentario 2026",
       "enrolled": 114,
-      "completed": 43,
+      "completed": 44,
       "activities_count": 3
     },
     "16": {
       "id": 16,
       "name": "Defensa alimentaria 2026",
       "enrolled": 115,
-      "completed": 45,
+      "completed": 46,
       "activities_count": 2
     },
     "18": {
@@ -109,63 +109,63 @@
       "id": 20,
       "name": "Concientización de amenazas 2026",
       "enrolled": 107,
-      "completed": 40,
+      "completed": 43,
       "activities_count": 2
     },
     "21": {
       "id": 21,
       "name": "Seguridad de las unidades de carga 2026",
       "enrolled": 107,
-      "completed": 37,
+      "completed": 39,
       "activities_count": 2
     },
     "22": {
       "id": 22,
       "name": "Asociados de negocio 2026",
       "enrolled": 106,
-      "completed": 39,
+      "completed": 41,
       "activities_count": 3
     },
     "23": {
       "id": 23,
       "name": "Seguridad de los procesos Logísticos 2026",
       "enrolled": 96,
-      "completed": 15,
+      "completed": 19,
       "activities_count": 3
     },
     "24": {
       "id": 24,
       "name": "Manual de seguridad 2026",
       "enrolled": 106,
-      "completed": 29,
+      "completed": 31,
       "activities_count": 5
     },
     "25": {
       "id": 25,
       "name": "Gestión del riesgo 2026",
       "enrolled": 96,
-      "completed": 20,
+      "completed": 21,
       "activities_count": 2
     },
     "26": {
       "id": 26,
       "name": "Lineamientos OEA 2026",
       "enrolled": 96,
-      "completed": 17,
+      "completed": 18,
       "activities_count": 2
     },
     "31": {
       "id": 31,
       "name": "Seguridad de las personas 2026",
       "enrolled": 96,
-      "completed": 18,
+      "completed": 20,
       "activities_count": 3
     },
     "32": {
       "id": 32,
       "name": "Seguridad física 2026",
       "enrolled": 96,
-      "completed": 15,
+      "completed": 17,
       "activities_count": 3
     },
     "33": {
@@ -8732,18 +8732,18 @@
           "course_id": 20,
           "course_name": "Concientización de amenazas 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 19:51:17",
           "activities": {
             "Video Concientización de amenazas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 19:33:05"
             },
             "Evalúa lo aprendido": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 19:50:50"
             }
           }
         },
@@ -8770,22 +8770,22 @@
           "course_id": 22,
           "course_name": "Asociados de negocio 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 19:43:11",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 19:35:24"
             },
             "Video Asociados de negocio Alianza Team": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 19:35:55"
             },
             "Evaluación asociados de negocio": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 19:41:51"
             }
           }
         },
@@ -9316,22 +9316,22 @@
           "course_id": 23,
           "course_name": "Seguridad de los procesos Logísticos 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-14 07:33:29",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-14 07:01:40"
             },
             "Video Seguridad de los Procesos Logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-14 07:02:12"
             },
             "Evaluación Seguridad de los procesos logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-14 07:33:12"
             }
           }
         },
@@ -11581,18 +11581,18 @@
           "course_id": 16,
           "course_name": "Defensa alimentaria 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 20:59:31",
           "activities": {
             "Video Defensa alimentaria": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 20:22:56"
             },
             "Evaluación defensa alimentaria": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 20:59:18"
             }
           }
         },
@@ -11602,16 +11602,16 @@
           "total_activities": 2,
           "completed_activities": 1,
           "progress_pct": 50.0,
-          "is_completed": false,
-          "completed_date": "",
+          "is_completed": true,
+          "completed_date": "2026-11-13 20:21:19",
           "activities": {
             "Video Concientización de amenazas": {
               "status": "Finalizado",
               "date": "2026-11-13 15:45:19"
             },
             "Evalúa lo aprendido": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 20:21:07"
             }
           }
         },
@@ -11661,22 +11661,22 @@
           "course_id": 23,
           "course_name": "Seguridad de los procesos Logísticos 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 21:32:05",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 21:11:43"
             },
             "Video Seguridad de los Procesos Logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 21:11:50"
             },
             "Evaluación Seguridad de los procesos logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 21:31:24"
             }
           }
         },
@@ -11799,14 +11799,14 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 1,
+          "progress_pct": 25.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-14 07:39:12"
             },
             "Video parte II": {
               "status": "No finalizado",
@@ -22758,18 +22758,18 @@
           "course_id": 21,
           "course_name": "Seguridad de las unidades de carga 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 17:42:40",
           "activities": {
             "Video Seguridad de las unidades de carga": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:37:19"
             },
             "Evaluación Seguridad  de las unidades de carga": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 17:42:21"
             }
           }
         },
@@ -22800,22 +22800,22 @@
           "course_id": 23,
           "course_name": "Seguridad de los procesos Logísticos 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 17:49:48",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:43:26"
             },
             "Video Seguridad de los Procesos Logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:43:35"
             },
             "Evaluación Seguridad de los procesos logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 17:49:29"
             }
           }
         },
@@ -22825,8 +22825,8 @@
           "total_activities": 5,
           "completed_activities": 4,
           "progress_pct": 80.0,
-          "is_completed": false,
-          "completed_date": "",
+          "is_completed": true,
+          "completed_date": "2026-11-13 17:32:06",
           "activities": {
             "Video caracterización del proceso": {
               "status": "Finalizado",
@@ -22845,8 +22845,8 @@
               "date": "2026-11-13 17:18:40"
             },
             "Evaluación Manual de seguridad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 17:31:45"
             }
           }
         },
@@ -22892,22 +22892,22 @@
           "course_id": 31,
           "course_name": "Seguridad de las personas 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 17:36:34",
           "activities": {
             "Video Seguridad de las personas parte 1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:33:01"
             },
             "Video Seguridad de las personas parte 2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:33:05"
             },
             "Evaluación seguridad de las personas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 17:36:15"
             }
           }
         },
@@ -22915,22 +22915,22 @@
           "course_id": 32,
           "course_name": "Seguridad física 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 17:53:36",
           "activities": {
             "Video Seguridad física P1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:50:11"
             },
             "Video seguridad física P2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:50:15"
             },
             "¡Evalúa lo aprendido!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 17:52:57"
             }
           }
         },
@@ -28224,8 +28224,8 @@
           "total_activities": 3,
           "completed_activities": 2,
           "progress_pct": 66.7,
-          "is_completed": false,
-          "completed_date": "",
+          "is_completed": true,
+          "completed_date": "2026-11-13 17:22:14",
           "activities": {
             "Video Fraude alimentario": {
               "status": "Finalizado",
@@ -28236,8 +28236,8 @@
               "date": "2026-09-20 13:44:19"
             },
             "Evaluación fraude alimentario": {
-              "status": "No finalizado",
-              "date": "1969-12-31 19:00:00"
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 17:22:03"
             }
           }
         },
@@ -28264,18 +28264,18 @@
           "course_id": 20,
           "course_name": "Concientización de amenazas 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 18:12:32",
           "activities": {
             "Video Concientización de amenazas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:51:22"
             },
             "Evalúa lo aprendido": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 18:12:05"
             }
           }
         },
@@ -28283,18 +28283,18 @@
           "course_id": 21,
           "course_name": "Seguridad de las unidades de carga 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 17:50:36",
           "activities": {
             "Video Seguridad de las unidades de carga": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 17:23:38"
             },
             "Evaluación Seguridad  de las unidades de carga": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 17:50:07"
             }
           }
         },
@@ -28302,22 +28302,22 @@
           "course_id": 22,
           "course_name": "Asociados de negocio 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 20:11:15",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 19:00:19"
             },
             "Video Asociados de negocio Alianza Team": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 19:00:28"
             },
             "Evaluación asociados de negocio": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 20:11:03"
             }
           }
         },
@@ -28325,22 +28325,22 @@
           "course_id": 23,
           "course_name": "Seguridad de los procesos Logísticos 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 18:38:52",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 18:13:41"
             },
             "Video Seguridad de los Procesos Logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 18:13:59"
             },
             "Evaluación Seguridad de los procesos logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 18:38:31"
             }
           }
         },
@@ -28348,30 +28348,30 @@
           "course_id": 24,
           "course_name": "Manual de seguridad 2026",
           "total_activities": 5,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 4,
+          "progress_pct": 80.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 21:10:30",
           "activities": {
             "Video caracterización del proceso": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 20:14:45"
             },
             "Manual de seguridad parte 1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 20:19:25"
             },
             "Manual de seguridad parte 2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 20:20:36"
             },
             "Manual de seguridad parte 3": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 20:35:54"
             },
             "Evaluación Manual de seguridad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 21:10:15"
             }
           }
         },
@@ -28379,18 +28379,18 @@
           "course_id": 25,
           "course_name": "Gestión del riesgo 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 100.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 21:22:45",
           "activities": {
             "Video Gestión del riesgo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 21:11:39"
             },
             "Evaluación Gestión del riesgo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 21:14:50"
             }
           }
         },
@@ -28398,18 +28398,18 @@
           "course_id": 26,
           "course_name": "Lineamientos OEA 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-13 18:59:01",
           "activities": {
             "Video Lineamientos OEA": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 18:39:45"
             },
             "Evaluación Lineamientos OEA": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 18:58:36"
             }
           }
         },
@@ -28417,22 +28417,22 @@
           "course_id": 31,
           "course_name": "Seguridad de las personas 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 21:31:17",
           "activities": {
             "Video Seguridad de las personas parte 1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 21:24:18"
             },
             "Video Seguridad de las personas parte 2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 21:26:45"
             },
             "Evaluación seguridad de las personas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 21:31:07"
             }
           }
         },
@@ -28440,22 +28440,22 @@
           "course_id": 32,
           "course_name": "Seguridad física 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-13 21:42:00",
           "activities": {
             "Video Seguridad física P1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 21:34:00"
             },
             "Video seguridad física P2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-13 21:34:39"
             },
             "¡Evalúa lo aprendido!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-13 21:40:53"
             }
           }
         },
