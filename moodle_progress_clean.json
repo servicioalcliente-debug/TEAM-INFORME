@@ -151,21 +151,21 @@
       "id": 26,
       "name": "Lineamientos OEA 2026",
       "enrolled": 96,
-      "completed": 18,
+      "completed": 19,
       "activities_count": 2
     },
     "31": {
       "id": 31,
       "name": "Seguridad de las personas 2026",
       "enrolled": 96,
-      "completed": 20,
+      "completed": 21,
       "activities_count": 3
     },
     "32": {
       "id": 32,
       "name": "Seguridad física 2026",
       "enrolled": 96,
-      "completed": 17,
+      "completed": 18,
       "activities_count": 3
     },
     "33": {
@@ -15692,18 +15692,18 @@
           "course_id": 26,
           "course_name": "Lineamientos OEA 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-14 08:10:19",
           "activities": {
             "Video Lineamientos OEA": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-14 08:04:49"
             },
             "Evaluación Lineamientos OEA": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-14 08:09:57"
             }
           }
         },
@@ -15711,22 +15711,22 @@
           "course_id": 31,
           "course_name": "Seguridad de las personas 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-14 08:20:23",
           "activities": {
             "Video Seguridad de las personas parte 1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-14 08:12:25"
             },
             "Video Seguridad de las personas parte 2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-14 08:15:50"
             },
             "Evaluación seguridad de las personas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-14 08:20:15"
             }
           }
         },
@@ -15734,22 +15734,22 @@
           "course_id": 32,
           "course_name": "Seguridad física 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-14 08:25:03",
           "activities": {
             "Video Seguridad física P1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-14 08:21:34"
             },
             "Video seguridad física P2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-14 08:21:59"
             },
             "¡Evalúa lo aprendido!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-14 08:24:55"
             }
           }
         },
