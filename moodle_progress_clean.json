@@ -123,7 +123,7 @@
       "id": 23,
       "name": "Seguridad de los procesos Logísticos 2026",
       "enrolled": 96,
-      "completed": 24,
+      "completed": 25,
       "activities_count": 3
     },
     "24": {
@@ -158,7 +158,7 @@
       "id": 32,
       "name": "Seguridad física 2026",
       "enrolled": 96,
-      "completed": 22,
+      "completed": 23,
       "activities_count": 3
     },
     "33": {
@@ -15227,14 +15227,14 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 1,
+          "progress_pct": 25.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-17 09:42:13"
             },
             "Video parte II": {
               "status": "No finalizado",
@@ -37424,26 +37424,26 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 3,
+          "progress_pct": 75.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-17 09:42:40"
             },
             "Video parte II": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-17 09:42:50"
             },
             "Video Parte III": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-17 09:42:58"
             },
             "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-17 09:53:04"
             }
           }
         }
@@ -46858,8 +46858,8 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 2,
-          "progress_pct": 50.0,
+          "completed_activities": 3,
+          "progress_pct": 75.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
@@ -46872,8 +46872,8 @@
               "date": "2026-11-13 12:21:59"
             },
             "Video Parte III": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-17 10:00:39"
             },
             "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo": {
               "status": "No finalizado",
@@ -52716,26 +52716,26 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 3,
+          "progress_pct": 75.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-17 09:37:59"
             },
             "Video parte II": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-17 09:38:08"
             },
             "Video Parte III": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-17 09:38:24"
             },
             "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-17 09:56:54"
             }
           }
         }
@@ -54414,8 +54414,8 @@
           "total_activities": 3,
           "completed_activities": 2,
           "progress_pct": 66.7,
-          "is_completed": false,
-          "completed_date": "",
+          "is_completed": true,
+          "completed_date": "2026-11-16 20:28:36",
           "activities": {
             "Introducción": {
               "status": "Finalizado",
@@ -54426,8 +54426,8 @@
               "date": "2026-11-16 20:09:13"
             },
             "Evaluación Seguridad de los procesos logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-16 20:28:19"
             }
           }
         },
@@ -54496,22 +54496,22 @@
           "course_id": 32,
           "course_name": "Seguridad física 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-16 20:33:43",
           "activities": {
             "Video Seguridad física P1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-16 20:28:59"
             },
             "Video seguridad física P2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-16 20:29:34"
             },
             "¡Evalúa lo aprendido!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-16 20:33:31"
             }
           }
         },
