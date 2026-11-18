@@ -15,7 +15,7 @@ MOODLE_USER = os.getenv('MOODLE_USER', '1007305710')
 MOODLE_PASS = os.getenv('MOODLE_PASS', 'Atcalsas2025*')
 MOODLE_URL = os.getenv('MOODLE_URL', 'https://www.cursosatcal.com/team')
 
-print(f"Starting extraction from Moodle for user: {MOODLE_USER}...")
+print(f"Starting extraction for year 2026 courses from Moodle...")
 
 session = requests.Session()
 session.verify = False
@@ -48,36 +48,46 @@ if not sesskey_m:
 sesskey = sesskey_m.group(1)
 print(f"Logged in successfully. Sesskey: {sesskey}")
 
-# 1. Discover courses
+# Category 2 is 'Cursos formación 2026'
+cat_url = f"{MOODLE_URL}/course/index.php?categoryid=2"
+rc = session.get(cat_url)
+c_links = re.findall(r'/course/view\.php\?id=(\d+)[^>]*>([^<]+)</a>', rc.text)
+
 courses_map = {}
-for cat_id in [1, 2]:
-    cat_url = f"{MOODLE_URL}/course/index.php?categoryid={cat_id}"
-    rc = session.get(cat_url)
-    c_links = re.findall(r'/course/view\.php\?id=(\d+)[^>]*>([^<]+)</a>', rc.text)
-    for cid_str, name in c_links:
-        clean_n = name.strip()
-        if clean_n and cid_str != '1':
-            courses_map[int(cid_str)] = clean_n
+for cid_str, name in c_links:
+    clean_n = name.strip()
+    if clean_n and cid_str != '1':
+        courses_map[int(cid_str)] = clean_n
 
-# Scan additional known course IDs
-for cid in range(2, 35):
-    if cid not in courses_map and cid != 1:
-        rv = session.get(f"{MOODLE_URL}/course/view.php?id={cid}")
-        if rv.status_code == 200:
-            m_title = re.search(r'<title>([^<]+)</title>', rv.text)
-            if m_title:
-                t = m_title.group(1)
-                if "Curso:" in t:
-                    courses_map[cid] = t.split("Curso:")[1].split("|")[0].strip()
+# Also add known 2026 courses specifically to ensure none are missed
+known_2026 = {
+    15: "Fraude alimentario 2026",
+    16: "Defensa alimentaria 2026",
+    18: "Inducción Corporativa Contratistas 2026",
+    20: "Concientización de amenazas 2026",
+    21: "Seguridad de las unidades de carga 2026",
+    22: "Asociados de negocio 2026",
+    23: "Seguridad de los procesos Logísticos 2026",
+    24: "Manual de seguridad 2026",
+    25: "Gestión del riesgo 2026",
+    26: "Lineamientos OEA 2026",
+    31: "Seguridad de las personas 2026",
+    32: "Seguridad física 2026",
+    33: "Evaluación respuesta ante emergencias y terrorismo 2026"
+}
+courses_map.update(known_2026)
 
-# Cleanup common name accents
+# Normalize names and accents
 for cid, cname in list(courses_map.items()):
     cname = cname.replace("Gestin", "Gestión").replace("Induccin", "Inducción")
-    cname = cname.replace("Concientizacin", "Concientización").replace("fsica", "física")
+    cname = cname.replace("Concientizacin", "Concientización").replace("fsica", "física").replace("Fsica", "Física")
     cname = cname.replace("Evaluacin", "Evaluación").replace("Econmico", "Económico")
+    cname = cname.replace("Logsticos", "Logísticos")
     courses_map[cid] = cname
 
-print(f"Total courses to scan: {len(courses_map)}")
+print(f"Total 2026 courses to process: {len(courses_map)}")
+for cid, name in sorted(courses_map.items()):
+    print(f"  [{cid}] {name}")
 
 students = {}
 courses_summary = {}
@@ -90,6 +100,7 @@ for cid, cname in sorted(courses_map.items()):
 
     content = resp.content.decode('utf-8-sig', errors='ignore')
     if "<html" in content[:300].lower() or "<!doctype" in content[:300].lower():
+        print(f"Skipping course {cid} ({cname}) because response is HTML")
         continue
 
     reader = csv.reader(io.StringIO(content))
@@ -144,7 +155,13 @@ for cid, cname in sorted(courses_map.items()):
                     completed_acts += 1
                     if date_val:
                         act_dates.append(date_val)
-                act_details[act_title] = {
+                
+                # Clean act name
+                clean_act_title = act_title.replace("Gestin", "Gestión").replace("Evaluacin", "Evaluación")
+                clean_act_title = clean_act_title.replace("Induccin", "Inducción").replace("Concientizacin", "Concientización")
+                clean_act_title = clean_act_title.replace("fsica", "física").replace("Logsticos", "Logísticos")
+
+                act_details[clean_act_title] = {
                     'status': val,
                     'date': date_val
                 }
@@ -185,8 +202,10 @@ for cid, cname in sorted(courses_map.items()):
         'completed': completed_course_count,
         'activities_count': len(activity_cols)
     }
+    print(f"Course {cid:2d}: {cname:<45} | Matriculados: {enrolled_count:3d} | Certificados: {completed_course_count:3d}")
 
-print(f"Extracted {len(students)} verified students across {len(courses_summary)} courses.")
+print(f"\nTotal verified students in 2026: {len(students)}")
+print(f"Total courses in 2026: {len(courses_summary)}")
 
 clean_data = {
     'courses_summary': courses_summary,
@@ -200,7 +219,6 @@ with open("moodle_progress_clean.json", "w", encoding="utf-8") as f:
 with open("dashboard_estudiantes.html", "r", encoding="utf-8") as f:
     html_text = f.read()
 
-# Replace the RAW_DATA json string safely
 json_clean_str = json.dumps(clean_data, ensure_ascii=False)
 html_updated = re.sub(
     r'const RAW_DATA = \{.*?\};\s+let flatRows =',
@@ -215,4 +233,4 @@ with open("dashboard_estudiantes.html", "w", encoding="utf-8") as f:
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html_updated)
 
-print("Files index.html and moodle_progress_clean.json updated successfully!")
+print("Files index.html, dashboard_estudiantes.html and moodle_progress_clean.json updated successfully!")
