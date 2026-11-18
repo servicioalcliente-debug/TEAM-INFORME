@@ -11,7 +11,7 @@
       "id": 16,
       "name": "Defensa alimentaria 2026",
       "enrolled": 115,
-      "completed": 50,
+      "completed": 51,
       "activities_count": 2
     },
     "18": {
@@ -12361,22 +12361,22 @@
           "course_id": 15,
           "course_name": "Fraude alimentario 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 2,
+          "progress_pct": 66.7,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Video Fraude alimentario": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 12:54:04"
             },
             "Guidance food fraud mitigation FSSC 22000 Versión 6": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 13:02:24"
             },
             "Evaluación fraude alimentario": {
               "status": "No finalizado",
-              "date": ""
+              "date": "1969-12-31 19:00:00"
             }
           }
         },
@@ -12384,18 +12384,18 @@
           "course_id": 16,
           "course_name": "Defensa alimentaria 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-18 12:51:12",
           "activities": {
             "Video Defensa alimentaria": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 12:22:00"
             },
             "Evaluación defensa alimentaria": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 12:50:09"
             }
           }
         },
@@ -28222,14 +28222,14 @@
           "course_id": 18,
           "course_name": "Inducción Corporativa Contratistas 2026",
           "total_activities": 16,
-          "completed_activities": 5,
-          "progress_pct": 31.2,
+          "completed_activities": 7,
+          "progress_pct": 43.8,
           "is_completed": true,
           "completed_date": "2026-06-12 12:43:51",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 16:44:13"
             },
             "Lección 1. Seguridad y Salud en el Trabajo": {
               "status": "No finalizado",
@@ -28248,12 +28248,12 @@
               "date": "2025-11-18 18:26:31"
             },
             "Evaluación Inducción Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 17:05:03"
             },
             "Presentación Sistema de Gestión Ambiental": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 18:10:47"
             },
             "Evaluación: Inducción al Sistema de Gestión Ambiental": {
               "status": "No finalizado",
@@ -28465,34 +28465,34 @@
           "course_id": 18,
           "course_name": "Inducción Corporativa Contratistas 2026",
           "total_activities": 16,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 5,
+          "progress_pct": 31.2,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 17:15:24"
             },
             "Lección 1. Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 17:31:45"
             },
             "Anexo 1: Identifica los peligros en tu lugar de trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 17:44:57"
             },
             "Anexo 2: Condición Subestándar": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 17:47:44"
             },
             "Anexo 3: Simulacro de Incendio en &quot;Los Simpsons&quot;": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 17:51:12"
             },
             "Evaluación Inducción Seguridad y Salud en el Trabajo": {
               "status": "No finalizado",
-              "date": ""
+              "date": "1969-12-31 19:00:00"
             },
             "Presentación Sistema de Gestión Ambiental": {
               "status": "No finalizado",
