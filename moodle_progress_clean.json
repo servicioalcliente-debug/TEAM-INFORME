@@ -17,7 +17,7 @@
     "18": {
       "id": 18,
       "name": "Inducción Corporativa Contratistas 2026",
-      "enrolled": 16,
+      "enrolled": 18,
       "completed": 5,
       "activities_count": 16
     },
@@ -25,7 +25,7 @@
       "id": 20,
       "name": "Concientización de amenazas 2026",
       "enrolled": 107,
-      "completed": 44,
+      "completed": 45,
       "activities_count": 2
     },
     "21": {
@@ -88,7 +88,7 @@
       "id": 33,
       "name": "Evaluación respuesta ante emergencias y terrorismo 2026",
       "enrolled": 96,
-      "completed": 20,
+      "completed": 22,
       "activities_count": 4
     }
   },
@@ -13380,26 +13380,26 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante emergencias y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 3,
+          "progress_pct": 75.0,
+          "is_completed": true,
+          "completed_date": "2026-11-19 17:40:02",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 17:14:15"
             },
             "Video parte II": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 17:32:48"
             },
             "Video Parte III": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 17:34:35"
             },
             "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-19 17:39:30"
             }
           }
         }
@@ -15364,16 +15364,16 @@
           "total_activities": 2,
           "completed_activities": 1,
           "progress_pct": 50.0,
-          "is_completed": false,
-          "completed_date": "",
+          "is_completed": true,
+          "completed_date": "2026-11-19 10:52:31",
           "activities": {
             "Video Concientización de amenazas": {
               "status": "Finalizado",
               "date": "2026-11-19 09:06:26"
             },
             "Evalúa lo aprendido": {
-              "status": "No finalizado",
-              "date": "1969-12-31 19:00:00"
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-19 10:27:41"
             }
           }
         },
@@ -15561,22 +15561,22 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante emergencias y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 3,
+          "progress_pct": 75.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 18:51:33"
             },
             "Video parte II": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 18:52:11"
             },
             "Video Parte III": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 18:59:15"
             },
             "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo": {
               "status": "No finalizado",
@@ -25261,8 +25261,8 @@
           "total_activities": 4,
           "completed_activities": 3,
           "progress_pct": 75.0,
-          "is_completed": false,
-          "completed_date": "",
+          "is_completed": true,
+          "completed_date": "2026-11-19 17:21:44",
           "activities": {
             "Video parte I": {
               "status": "Finalizado",
@@ -25277,8 +25277,8 @@
               "date": "2026-11-17 10:00:39"
             },
             "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-19 17:19:37"
             }
           }
         }
@@ -27803,6 +27803,87 @@
         }
       }
     },
+    "serviciotecnico@blamis.com.co": {
+      "name": "Juliana Chaves Molano",
+      "email": "serviciotecnico@blamis.com.co",
+      "courses": {
+        "18": {
+          "course_id": 18,
+          "course_name": "Inducción Corporativa Contratistas 2026",
+          "total_activities": 16,
+          "completed_activities": 0,
+          "progress_pct": 0.0,
+          "is_completed": false,
+          "completed_date": "",
+          "activities": {
+            "Contratista: ¡Bienvenid@ a Alianza Team!": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Lección 1. Seguridad y Salud en el Trabajo": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Anexo 1: Identifica los peligros en tu lugar de trabajo": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Anexo 2: Condición Subestándar": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Anexo 3: Simulacro de Incendio en &quot;Los Simpsons&quot;": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Evaluación Inducción Seguridad y Salud en el Trabajo": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Presentación Sistema de Gestión Ambiental": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Evaluación: Inducción al Sistema de Gestión Ambiental": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Presentación Protección de recursos": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Evaluación: Inducción Protección de Recursos": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "BPA Y BPM En la inocuidad alimentaria": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Evaluación Fundamentos Básicos de BPM e Inocuidad": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Presentacion de 5&#039;S contratistas": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Evaluación programa 5'S": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "¿ Tienes algo que reportar?": {
+              "status": "No finalizado",
+              "date": ""
+            }
+          }
+        }
+      }
+    },
     "heberfabiochavez@hotmail.com": {
       "name": "Heber Fabio Chavez Novoa",
       "email": "heberfabiochavez@hotmail.com",
@@ -28566,12 +28647,12 @@
               "date": "2026-11-18 17:51:12"
             },
             "Evaluación Inducción Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": "1969-12-31 19:00:00"
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-19 18:09:48"
             },
             "Presentación Sistema de Gestión Ambiental": {
               "status": "No finalizado",
-              "date": ""
+              "date": "1969-12-31 19:00:00"
             },
             "Evaluación: Inducción al Sistema de Gestión Ambiental": {
               "status": "No finalizado",
@@ -28584,6 +28665,87 @@
             "Evaluación: Inducción Protección de Recursos": {
               "status": "No finalizado",
               "date": ""
+            },
+            "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "BPA Y BPM En la inocuidad alimentaria": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Evaluación Fundamentos Básicos de BPM e Inocuidad": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Presentacion de 5&#039;S contratistas": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Evaluación programa 5'S": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "¿ Tienes algo que reportar?": {
+              "status": "No finalizado",
+              "date": ""
+            }
+          }
+        }
+      }
+    },
+    "jhon.vega@co.g4s.com": {
+      "name": "Jhon Fredy ríos Vega",
+      "email": "jhon.vega@co.g4s.com",
+      "courses": {
+        "18": {
+          "course_id": 18,
+          "course_name": "Inducción Corporativa Contratistas 2026",
+          "total_activities": 16,
+          "completed_activities": 3,
+          "progress_pct": 18.8,
+          "is_completed": false,
+          "completed_date": "",
+          "activities": {
+            "Contratista: ¡Bienvenid@ a Alianza Team!": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Lección 1. Seguridad y Salud en el Trabajo": {
+              "status": "No finalizado",
+              "date": ""
+            },
+            "Anexo 1: Identifica los peligros en tu lugar de trabajo": {
+              "status": "Finalizado",
+              "date": "2026-08-11 23:53:08"
+            },
+            "Anexo 2: Condición Subestándar": {
+              "status": "Finalizado",
+              "date": "2026-08-11 23:57:40"
+            },
+            "Anexo 3: Simulacro de Incendio en &quot;Los Simpsons&quot;": {
+              "status": "Finalizado",
+              "date": "2026-08-12 00:01:16"
+            },
+            "Evaluación Inducción Seguridad y Salud en el Trabajo": {
+              "status": "No finalizado",
+              "date": "2026-10-13 21:27:22"
+            },
+            "Presentación Sistema de Gestión Ambiental": {
+              "status": "No finalizado",
+              "date": "2026-08-19 12:38:37"
+            },
+            "Evaluación: Inducción al Sistema de Gestión Ambiental": {
+              "status": "No finalizado",
+              "date": "2026-08-19 12:38:37"
+            },
+            "Presentación Protección de recursos": {
+              "status": "No finalizado",
+              "date": "2026-08-19 12:38:37"
+            },
+            "Evaluación: Inducción Protección de Recursos": {
+              "status": "No finalizado",
+              "date": "2026-10-06 18:25:40"
             },
             "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
               "status": "No finalizado",
