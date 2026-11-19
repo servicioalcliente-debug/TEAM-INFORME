@@ -17,8 +17,8 @@
     "18": {
       "id": 18,
       "name": "Inducción Corporativa Contratistas 2026",
-      "enrolled": 15,
-      "completed": 3,
+      "enrolled": 16,
+      "completed": 5,
       "activities_count": 16
     },
     "20": {
@@ -39,14 +39,14 @@
       "id": 22,
       "name": "Asociados de negocio 2026",
       "enrolled": 106,
-      "completed": 41,
+      "completed": 42,
       "activities_count": 3
     },
     "23": {
       "id": 23,
       "name": "Seguridad de los procesos Logísticos 2026",
       "enrolled": 96,
-      "completed": 26,
+      "completed": 28,
       "activities_count": 3
     },
     "24": {
@@ -60,35 +60,35 @@
       "id": 25,
       "name": "Gestión del riesgo 2026",
       "enrolled": 96,
-      "completed": 27,
+      "completed": 29,
       "activities_count": 2
     },
     "26": {
       "id": 26,
       "name": "Lineamientos OEA 2026",
       "enrolled": 96,
-      "completed": 24,
+      "completed": 25,
       "activities_count": 2
     },
     "31": {
       "id": 31,
       "name": "Seguridad de las personas 2026",
       "enrolled": 96,
-      "completed": 28,
+      "completed": 30,
       "activities_count": 3
     },
     "32": {
       "id": 32,
       "name": "Seguridad física 2026",
       "enrolled": 96,
-      "completed": 24,
+      "completed": 26,
       "activities_count": 3
     },
     "33": {
       "id": 33,
       "name": "Evaluación respuesta ante emergencias y terrorismo 2026",
       "enrolled": 96,
-      "completed": 18,
+      "completed": 20,
       "activities_count": 4
     }
   },
@@ -13591,6 +13591,81 @@
             }
           }
         },
+        "18": {
+          "course_id": 18,
+          "course_name": "Inducción Corporativa Contratistas 2026",
+          "total_activities": 16,
+          "completed_activities": 11,
+          "progress_pct": 68.8,
+          "is_completed": true,
+          "completed_date": "2026-06-12 12:43:50",
+          "activities": {
+            "Contratista: ¡Bienvenid@ a Alianza Team!": {
+              "status": "Finalizado",
+              "date": "2026-11-18 19:56:00"
+            },
+            "Lección 1. Seguridad y Salud en el Trabajo": {
+              "status": "Finalizado",
+              "date": "2026-11-18 20:11:33"
+            },
+            "Anexo 1: Identifica los peligros en tu lugar de trabajo": {
+              "status": "Finalizado",
+              "date": "2025-11-05 16:12:33"
+            },
+            "Anexo 2: Condición Subestándar": {
+              "status": "Finalizado",
+              "date": "2025-11-05 16:32:56"
+            },
+            "Anexo 3: Simulacro de Incendio en &quot;Los Simpsons&quot;": {
+              "status": "Finalizado",
+              "date": "2025-11-05 16:37:28"
+            },
+            "Evaluación Inducción Seguridad y Salud en el Trabajo": {
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 20:29:52"
+            },
+            "Presentación Sistema de Gestión Ambiental": {
+              "status": "Finalizado",
+              "date": "2026-11-18 20:44:34"
+            },
+            "Evaluación: Inducción al Sistema de Gestión Ambiental": {
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 21:04:22"
+            },
+            "Presentación Protección de recursos": {
+              "status": "Finalizado",
+              "date": "2026-11-18 21:12:06"
+            },
+            "Evaluación: Inducción Protección de Recursos": {
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 21:17:24"
+            },
+            "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
+              "status": "Finalizado",
+              "date": "2026-11-18 21:27:59"
+            },
+            "BPA Y BPM En la inocuidad alimentaria": {
+              "status": "Finalizado",
+              "date": "2025-11-05 18:36:38"
+            },
+            "Evaluación Fundamentos Básicos de BPM e Inocuidad": {
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 21:38:58"
+            },
+            "Presentacion de 5&#039;S contratistas": {
+              "status": "Finalizado",
+              "date": "2025-11-05 18:56:14"
+            },
+            "Evaluación programa 5'S": {
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 21:50:51"
+            },
+            "¿ Tienes algo que reportar?": {
+              "status": "Finalizado",
+              "date": "2026-11-18 21:51:13"
+            }
+          }
+        },
         "20": {
           "course_id": 20,
           "course_name": "Concientización de amenazas 2026",
@@ -13656,22 +13731,22 @@
           "course_id": 23,
           "course_name": "Seguridad de los procesos Logísticos 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-18 23:52:42",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 23:47:20"
             },
             "Video Seguridad de los Procesos Logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 23:47:28"
             },
             "Evaluación Seguridad de los procesos logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 23:52:33"
             }
           }
         },
@@ -13710,18 +13785,18 @@
           "course_id": 25,
           "course_name": "Gestión del riesgo 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 100.0,
+          "is_completed": true,
+          "completed_date": "2026-11-18 19:37:56",
           "activities": {
             "Video Gestión del riesgo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 19:27:48"
             },
             "Evaluación Gestión del riesgo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 19:29:12"
             }
           }
         },
@@ -13748,22 +13823,22 @@
           "course_id": 31,
           "course_name": "Seguridad de las personas 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-18 23:46:42",
           "activities": {
             "Video Seguridad de las personas parte 1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 23:40:18"
             },
             "Video Seguridad de las personas parte 2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 23:41:18"
             },
             "Evaluación seguridad de las personas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 23:46:29"
             }
           }
         },
@@ -13771,22 +13846,22 @@
           "course_id": 32,
           "course_name": "Seguridad física 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-18 19:25:00",
           "activities": {
             "Video Seguridad física P1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 19:12:02"
             },
             "Video seguridad física P2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 19:16:33"
             },
             "¡Evalúa lo aprendido!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 19:20:54"
             }
           }
         },
@@ -13794,26 +13869,26 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante emergencias y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 3,
+          "progress_pct": 75.0,
+          "is_completed": true,
+          "completed_date": "2026-11-18 23:59:37",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 23:53:04"
             },
             "Video parte II": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 23:53:07"
             },
             "Video Parte III": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 23:53:09"
             },
             "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 23:59:21"
             }
           }
         }
@@ -15287,18 +15362,18 @@
           "course_id": 20,
           "course_name": "Concientización de amenazas 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 1,
+          "progress_pct": 50.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Video Concientización de amenazas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 09:06:26"
             },
             "Evalúa lo aprendido": {
               "status": "No finalizado",
-              "date": ""
+              "date": "1969-12-31 19:00:00"
             }
           }
         },
@@ -15327,8 +15402,8 @@
           "total_activities": 3,
           "completed_activities": 2,
           "progress_pct": 66.7,
-          "is_completed": false,
-          "completed_date": "",
+          "is_completed": true,
+          "completed_date": "2026-11-19 08:34:59",
           "activities": {
             "Introducción": {
               "status": "Finalizado",
@@ -15339,8 +15414,8 @@
               "date": "2026-10-27 18:21:29"
             },
             "Evaluación asociados de negocio": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-19 08:26:39"
             }
           }
         },
@@ -28141,74 +28216,74 @@
           "course_id": 18,
           "course_name": "Inducción Corporativa Contratistas 2026",
           "total_activities": 16,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 10,
+          "progress_pct": 62.5,
+          "is_completed": true,
+          "completed_date": "2026-11-18 22:18:53",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 19:19:41"
             },
             "Lección 1. Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 19:44:27"
             },
             "Anexo 1: Identifica los peligros en tu lugar de trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 19:45:10"
             },
             "Anexo 2: Condición Subestándar": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 19:49:29"
             },
             "Anexo 3: Simulacro de Incendio en &quot;Los Simpsons&quot;": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 19:53:09"
             },
             "Evaluación Inducción Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 20:08:09"
             },
             "Presentación Sistema de Gestión Ambiental": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 20:37:07"
             },
             "Evaluación: Inducción al Sistema de Gestión Ambiental": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 21:06:31"
             },
             "Presentación Protección de recursos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 21:14:17"
             },
             "Evaluación: Inducción Protección de Recursos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 21:43:04"
             },
             "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 21:53:41"
             },
             "BPA Y BPM En la inocuidad alimentaria": {
               "status": "No finalizado",
               "date": ""
             },
             "Evaluación Fundamentos Básicos de BPM e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 22:03:44"
             },
             "Presentacion de 5&#039;S contratistas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 22:03:57"
             },
             "Evaluación programa 5'S": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 22:17:58"
             },
             "¿ Tienes algo que reportar?": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 20:24:39"
             }
           }
         }
@@ -28222,8 +28297,8 @@
           "course_id": 18,
           "course_name": "Inducción Corporativa Contratistas 2026",
           "total_activities": 16,
-          "completed_activities": 7,
-          "progress_pct": 43.8,
+          "completed_activities": 10,
+          "progress_pct": 62.5,
           "is_completed": true,
           "completed_date": "2026-06-12 12:43:51",
           "activities": {
@@ -28256,40 +28331,40 @@
               "date": "2026-11-18 18:10:47"
             },
             "Evaluación: Inducción al Sistema de Gestión Ambiental": {
-              "status": "No finalizado",
-              "date": "2026-11-17 16:32:26"
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 18:53:11"
             },
             "Presentación Protección de recursos": {
-              "status": "No finalizado",
-              "date": "2025-11-24 11:36:39"
+              "status": "Finalizado",
+              "date": "2026-11-18 19:03:13"
             },
             "Evaluación: Inducción Protección de Recursos": {
-              "status": "No finalizado",
-              "date": "2026-11-17 16:34:15"
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 19:35:37"
             },
             "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 20:26:19"
             },
             "BPA Y BPM En la inocuidad alimentaria": {
               "status": "Finalizado",
               "date": "2025-11-19 16:54:46"
             },
             "Evaluación Fundamentos Básicos de BPM e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 21:00:43"
             },
             "Presentacion de 5&#039;S contratistas": {
               "status": "Finalizado",
               "date": "2025-11-19 17:35:49"
             },
             "Evaluación programa 5'S": {
-              "status": "No finalizado",
-              "date": "2026-11-17 16:34:53"
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-18 21:51:39"
             },
             "¿ Tienes algo que reportar?": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-18 21:04:10"
             }
           }
         }
@@ -28948,22 +29023,22 @@
           "course_id": 23,
           "course_name": "Seguridad de los procesos Logísticos 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-19 02:35:06",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 02:24:04"
             },
             "Video Seguridad de los Procesos Logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 02:24:15"
             },
             "Evaluación Seguridad de los procesos logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-19 02:34:59"
             }
           }
         },
@@ -29002,18 +29077,18 @@
           "course_id": 25,
           "course_name": "Gestión del riesgo 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 100.0,
+          "is_completed": true,
+          "completed_date": "2026-11-19 01:21:39",
           "activities": {
             "Video Gestión del riesgo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 01:15:55"
             },
             "Evaluación Gestión del riesgo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 01:18:42"
             }
           }
         },
@@ -29021,18 +29096,18 @@
           "course_id": 26,
           "course_name": "Lineamientos OEA 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-19 01:34:19",
           "activities": {
             "Video Lineamientos OEA": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 01:22:44"
             },
             "Evaluación Lineamientos OEA": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-19 01:30:05"
             }
           }
         },
@@ -29040,22 +29115,22 @@
           "course_id": 31,
           "course_name": "Seguridad de las personas 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-19 01:58:20",
           "activities": {
             "Video Seguridad de las personas parte 1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 01:35:19"
             },
             "Video Seguridad de las personas parte 2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 01:41:05"
             },
             "Evaluación seguridad de las personas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-19 01:57:46"
             }
           }
         },
@@ -29063,22 +29138,22 @@
           "course_id": 32,
           "course_name": "Seguridad física 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-19 02:22:39",
           "activities": {
             "Video Seguridad física P1": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 01:59:15"
             },
             "Video seguridad física P2": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 02:05:29"
             },
             "¡Evalúa lo aprendido!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-19 02:16:05"
             }
           }
         },
@@ -29086,26 +29161,26 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante emergencias y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 3,
+          "progress_pct": 75.0,
+          "is_completed": true,
+          "completed_date": "2026-11-19 01:14:44",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 00:37:18"
             },
             "Video parte II": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 00:47:06"
             },
             "Video Parte III": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-19 00:55:40"
             },
             "Evaluación respuesta ante situaciones emergencia, amenazas y terrorismo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-19 01:14:23"
             }
           }
         }
