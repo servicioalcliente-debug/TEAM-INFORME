@@ -18,7 +18,7 @@
       "id": 18,
       "name": "Inducción Corporativa Contratistas 2026",
       "enrolled": 22,
-      "completed": 7,
+      "completed": 8,
       "activities_count": 16
     },
     "20": {
@@ -28945,10 +28945,10 @@
           "course_id": 18,
           "course_name": "Inducción Corporativa Contratistas 2026",
           "total_activities": 16,
-          "completed_activities": 9,
-          "progress_pct": 56.2,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 10,
+          "progress_pct": 62.5,
+          "is_completed": true,
+          "completed_date": "2026-11-20 18:46:13",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
               "status": "Finalizado",
@@ -28999,16 +28999,16 @@
               "date": "2026-11-20 18:26:49"
             },
             "Evaluación Fundamentos Básicos de BPM e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-20 18:38:02"
             },
             "Presentacion de 5&#039;S contratistas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-20 18:38:23"
             },
             "Evaluación programa 5'S": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-20 18:45:37"
             },
             "¿ Tienes algo que reportar?": {
               "status": "Finalizado",
