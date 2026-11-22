@@ -4,7 +4,7 @@
       "id": 15,
       "name": "Fraude alimentario 2026",
       "enrolled": 114,
-      "completed": 46,
+      "completed": 47,
       "activities_count": 3
     },
     "16": {
@@ -46,7 +46,7 @@
       "id": 23,
       "name": "Seguridad de los procesos Logísticos 2026",
       "enrolled": 96,
-      "completed": 28,
+      "completed": 29,
       "activities_count": 3
     },
     "24": {
@@ -60,14 +60,14 @@
       "id": 25,
       "name": "Gestión del riesgo 2026",
       "enrolled": 96,
-      "completed": 29,
+      "completed": 30,
       "activities_count": 2
     },
     "26": {
       "id": 26,
       "name": "Lineamientos OEA 2026",
       "enrolled": 96,
-      "completed": 25,
+      "completed": 26,
       "activities_count": 2
     },
     "31": {
@@ -7327,22 +7327,22 @@
           "course_id": 15,
           "course_name": "Fraude alimentario 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-22 15:07:57",
           "activities": {
             "Video Fraude alimentario": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-22 14:27:35"
             },
             "Guidance food fraud mitigation FSSC 22000 Versión 6": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-22 14:42:04"
             },
             "Evaluación fraude alimentario": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-22 15:07:34"
             }
           }
         },
@@ -7369,22 +7369,22 @@
           "course_id": 23,
           "course_name": "Seguridad de los procesos Logísticos 2026",
           "total_activities": 3,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 66.7,
+          "is_completed": true,
+          "completed_date": "2026-11-22 15:41:29",
           "activities": {
             "Introducción": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-22 15:09:40"
             },
             "Video Seguridad de los Procesos Logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-22 15:09:58"
             },
             "Evaluación Seguridad de los procesos logísticos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-22 15:33:35"
             }
           }
         },
@@ -7392,18 +7392,18 @@
           "course_id": 25,
           "course_name": "Gestión del riesgo 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 2,
+          "progress_pct": 100.0,
+          "is_completed": true,
+          "completed_date": "2026-11-22 16:04:09",
           "activities": {
             "Video Gestión del riesgo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-22 15:45:34"
             },
             "Evaluación Gestión del riesgo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-22 15:55:01"
             }
           }
         },
@@ -7411,18 +7411,18 @@
           "course_id": 26,
           "course_name": "Lineamientos OEA 2026",
           "total_activities": 2,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 1,
+          "progress_pct": 50.0,
+          "is_completed": true,
+          "completed_date": "2026-11-22 16:26:25",
           "activities": {
             "Video Lineamientos OEA": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-22 16:05:53"
             },
             "Evaluación Lineamientos OEA": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-22 16:18:36"
             }
           }
         },
@@ -7476,8 +7476,8 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante emergencias y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 1,
-          "progress_pct": 25.0,
+          "completed_activities": 2,
+          "progress_pct": 50.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
@@ -7486,8 +7486,8 @@
               "date": "2026-11-18 09:41:51"
             },
             "Video parte II": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-22 16:45:24"
             },
             "Video Parte III": {
               "status": "No finalizado",
@@ -21601,18 +21601,18 @@
           "course_id": 33,
           "course_name": "Evaluación respuesta ante emergencias y terrorismo 2026",
           "total_activities": 4,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 2,
+          "progress_pct": 50.0,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Video parte I": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-22 17:35:10"
             },
             "Video parte II": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-22 17:54:07"
             },
             "Video Parte III": {
               "status": "No finalizado",
