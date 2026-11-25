@@ -95,7 +95,7 @@
       "id": 35,
       "name": "Inducción Corporativa Contratistas 2026 (Nuevo)",
       "enrolled": 45,
-      "completed": 1,
+      "completed": 3,
       "activities_count": 16
     }
   },
@@ -17594,22 +17594,22 @@
           "course_id": 35,
           "course_name": "Inducción Corporativa Contratistas 2026 (Nuevo)",
           "total_activities": 16,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 3,
+          "progress_pct": 18.8,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 10:42:04"
             },
             "Lección 1. Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 10:58:40"
             },
             "Anexo 1: Identifica los peligros en tu lugar de trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 11:16:10"
             },
             "Anexo 2: Condición Subestándar": {
               "status": "No finalizado",
@@ -19622,7 +19622,7 @@
             },
             "Evaluación: Inducción al Sistema de Gestión Ambiental": {
               "status": "No finalizado",
-              "date": ""
+              "date": "1969-12-31 19:00:00"
             },
             "Presentación Protección de recursos": {
               "status": "No finalizado",
@@ -28988,50 +28988,50 @@
           "course_id": 35,
           "course_name": "Inducción Corporativa Contratistas 2026 (Nuevo)",
           "total_activities": 16,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 7,
+          "progress_pct": 43.8,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 07:29:32"
             },
             "Lección 1. Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 08:08:54"
             },
             "Anexo 1: Identifica los peligros en tu lugar de trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 08:52:30"
             },
             "Anexo 2: Condición Subestándar": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 08:57:27"
             },
             "Anexo 3: Simulacro de Incendio en &quot;Los Simpsons&quot;": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 09:01:00"
             },
             "Evaluación Inducción Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-25 09:18:19"
             },
             "Presentación Sistema de Gestión Ambiental": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 10:25:37"
             },
             "Evaluación: Inducción al Sistema de Gestión Ambiental": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-25 10:41:53"
             },
             "Presentación Protección de recursos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 10:58:38"
             },
             "Evaluación: Inducción Protección de Recursos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (no ha alcanzado la calificación de aprobado)",
+              "date": "2026-11-25 11:03:35"
             },
             "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
               "status": "No finalizado",
@@ -29960,8 +29960,8 @@
           "course_id": 35,
           "course_name": "Inducción Corporativa Contratistas 2026 (Nuevo)",
           "total_activities": 16,
-          "completed_activities": 6,
-          "progress_pct": 37.5,
+          "completed_activities": 7,
+          "progress_pct": 43.8,
           "is_completed": false,
           "completed_date": "",
           "activities": {
@@ -29994,16 +29994,16 @@
               "date": "2026-11-24 20:24:03"
             },
             "Evaluación: Inducción al Sistema de Gestión Ambiental": {
-              "status": "No finalizado",
-              "date": "1969-12-31 19:00:00"
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-24 20:48:24"
             },
             "Presentación Protección de recursos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-24 20:59:02"
             },
             "Evaluación: Inducción Protección de Recursos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (no ha alcanzado la calificación de aprobado)",
+              "date": "2026-11-24 21:04:39"
             },
             "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
               "status": "No finalizado",
@@ -30229,12 +30229,12 @@
               "date": "2026-11-24 17:04:13"
             },
             "Evaluación Inducción Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": "1969-12-31 19:00:00"
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-25 10:56:07"
             },
             "Presentación Sistema de Gestión Ambiental": {
               "status": "No finalizado",
-              "date": ""
+              "date": "1969-12-31 19:00:00"
             },
             "Evaluación: Inducción al Sistema de Gestión Ambiental": {
               "status": "No finalizado",
@@ -30284,10 +30284,10 @@
           "course_id": 35,
           "course_name": "Inducción Corporativa Contratistas 2026 (Nuevo)",
           "total_activities": 16,
-          "completed_activities": 6,
-          "progress_pct": 37.5,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 11,
+          "progress_pct": 68.8,
+          "is_completed": true,
+          "completed_date": "2026-11-25 11:20:24",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
               "status": "Finalizado",
@@ -30318,40 +30318,40 @@
               "date": "2026-11-24 18:42:46"
             },
             "Evaluación: Inducción al Sistema de Gestión Ambiental": {
-              "status": "Finalizado (no ha alcanzado la calificación de aprobado)",
-              "date": "2026-11-24 19:30:06"
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-25 10:13:35"
             },
             "Presentación Protección de recursos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 10:42:36"
             },
             "Evaluación: Inducción Protección de Recursos": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-25 10:46:47"
             },
             "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 10:56:37"
             },
             "BPA Y BPM En la inocuidad alimentaria": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 10:57:01"
             },
             "Evaluación Fundamentos Básicos de BPM e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-25 11:07:55"
             },
             "Presentacion de 5&#039;S contratistas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 11:08:30"
             },
             "Evaluación programa 5'S": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-25 11:19:48"
             },
             "¿ Tienes algo que reportar?": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 11:19:56"
             }
           }
         }
@@ -31418,10 +31418,10 @@
           "course_id": 35,
           "course_name": "Inducción Corporativa Contratistas 2026 (Nuevo)",
           "total_activities": 16,
-          "completed_activities": 7,
-          "progress_pct": 43.8,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 11,
+          "progress_pct": 68.8,
+          "is_completed": true,
+          "completed_date": "2026-11-24 22:14:53",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
               "status": "Finalizado",
@@ -31464,28 +31464,28 @@
               "date": "2026-11-24 20:30:27"
             },
             "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
-              "status": "No finalizado",
-              "date": "1969-12-31 19:00:00"
+              "status": "Finalizado",
+              "date": "2026-11-24 21:17:40"
             },
             "BPA Y BPM En la inocuidad alimentaria": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-24 21:18:32"
             },
             "Evaluación Fundamentos Básicos de BPM e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-24 21:58:34"
             },
             "Presentacion de 5&#039;S contratistas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-24 22:00:14"
             },
             "Evaluación programa 5'S": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-24 22:12:13"
             },
             "¿ Tienes algo que reportar?": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-24 22:13:39"
             }
           }
         }
@@ -31580,34 +31580,34 @@
           "course_id": 35,
           "course_name": "Inducción Corporativa Contratistas 2026 (Nuevo)",
           "total_activities": 16,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 5,
+          "progress_pct": 31.2,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 09:03:04"
             },
             "Lección 1. Seguridad y Salud en el Trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 09:24:06"
             },
             "Anexo 1: Identifica los peligros en tu lugar de trabajo": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 09:44:01"
             },
             "Anexo 2: Condición Subestándar": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 09:50:47"
             },
             "Anexo 3: Simulacro de Incendio en &quot;Los Simpsons&quot;": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-25 10:12:08"
             },
             "Evaluación Inducción Seguridad y Salud en el Trabajo": {
               "status": "No finalizado",
-              "date": ""
+              "date": "1969-12-31 19:00:00"
             },
             "Presentación Sistema de Gestión Ambiental": {
               "status": "No finalizado",
