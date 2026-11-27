@@ -95,7 +95,7 @@
       "id": 35,
       "name": "Inducción Corporativa Contratistas 2026 (Nuevo)",
       "enrolled": 48,
-      "completed": 16,
+      "completed": 18,
       "activities_count": 16
     }
   },
@@ -29798,14 +29798,14 @@
           "course_id": 35,
           "course_name": "Inducción Corporativa Contratistas 2026 (Nuevo)",
           "total_activities": 16,
-          "completed_activities": 0,
-          "progress_pct": 0.0,
+          "completed_activities": 1,
+          "progress_pct": 6.2,
           "is_completed": false,
           "completed_date": "",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-27 10:40:10"
             },
             "Lección 1. Seguridad y Salud en el Trabajo": {
               "status": "No finalizado",
@@ -30691,8 +30691,8 @@
           "total_activities": 16,
           "completed_activities": 11,
           "progress_pct": 68.8,
-          "is_completed": false,
-          "completed_date": "",
+          "is_completed": true,
+          "completed_date": "2026-11-26 20:15:46",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
               "status": "Finalizado",
@@ -32066,10 +32066,10 @@
           "course_id": 35,
           "course_name": "Inducción Corporativa Contratistas 2026 (Nuevo)",
           "total_activities": 16,
-          "completed_activities": 7,
-          "progress_pct": 43.8,
-          "is_completed": false,
-          "completed_date": "",
+          "completed_activities": 11,
+          "progress_pct": 68.8,
+          "is_completed": true,
+          "completed_date": "2026-11-27 08:03:31",
           "activities": {
             "Contratista: ¡Bienvenid@ a Alianza Team!": {
               "status": "Finalizado",
@@ -32112,28 +32112,28 @@
               "date": "2026-11-26 17:51:33"
             },
             "Fundamentos Básicos de Buenas Prácticas de Manufactura e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-27 07:31:57"
             },
             "BPA Y BPM En la inocuidad alimentaria": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-27 07:32:07"
             },
             "Evaluación Fundamentos Básicos de BPM e Inocuidad": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-27 07:49:31"
             },
             "Presentacion de 5&#039;S contratistas": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-27 07:49:57"
             },
             "Evaluación programa 5'S": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado (ha alcanzado la califiación de aprobado)",
+              "date": "2026-11-27 08:02:50"
             },
             "¿ Tienes algo que reportar?": {
-              "status": "No finalizado",
-              "date": ""
+              "status": "Finalizado",
+              "date": "2026-11-27 08:03:15"
             }
           }
         }
